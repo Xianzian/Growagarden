@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Absorbeds/grow-a-garden/refs/heads/LoaderV1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Absorbeds/NoLag-id-Hub/refs/heads/LoaderV1"))()
